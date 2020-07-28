@@ -1,23 +1,21 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Asantz96/Asantz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Andrés Santos and I'm a techie.** 
 
-Here are some ideas to get you started:
+# 🦾 Working
+- I am an Industralization and Production engineer at [Zennio](https://www.zennio.com/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to know more about the functions of this position, please visit my [LinkedIn profile](https://www.linkedin.com/in/andressantossanz/).
 
+# 📚 Learning
+
+- I am studying a **Msc. in Computer Engineering** at [UOC](https://studies.uoc.edu/en/study-at-the-uoc)
+- I am currently learning **Apache Airflow**, **Keras**, **Scikit learn** and mastering my **Python** 🐍, specially related to *Data Science* and *Data Engineering*.
+
+# 📈 My Stats
 [![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Asantz96)](https://github.com/anuraghazra/github-readme-stats)
 
-#### You can contact me
+# 📫 How to reach me
   <a href="https://www.linkedin.com/in/andressantossanz/">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="resources/Linkedin.svg" />
   </a>
