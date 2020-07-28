@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### You can contact me
   <a href="https://www.linkedin.com/in/andressantossanz/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="resources/Linkedin.svg" />
   </a>
   
   <a href="mailto:santossanzandres@gmail.com">
-    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Hargun | Gmail" width="26px" src="resources/Gmail.svg" />
   
