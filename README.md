@@ -1,4 +1,4 @@
-# Welcome!
+# 👋 Welcome!
 
 **I'm Andrés Santos and I'm a techie.** 
 
