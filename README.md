@@ -17,9 +17,9 @@ If you want to know more about the functions of this position, please visit my [
 
 # 📫 How to reach me
   <a href="https://www.linkedin.com/in/andressantossanz/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="resources/Linkedin.svg" />
+    <img align="left" alt="Linkedin" width="24px" src="resources/Linkedin.svg" />
   </a>
   
   <a href="mailto:santossanzandres@gmail.com">
-    <img align="left" alt="Hargun | Gmail" width="26px" src="resources/Gmail.svg" />
+    <img align="left" alt="Gmail" width="26px" src="resources/Gmail.svg" />
   
