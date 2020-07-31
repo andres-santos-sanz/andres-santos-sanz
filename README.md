@@ -1,4 +1,4 @@
-# 👋 Welcome!
+# 👋 Welcome! ![Profile views](https://gpvc.arturio.dev/Asantz96)
 
 **I'm Andrés Santos and I'm a techie.** 
 
@@ -14,6 +14,8 @@ If you want to know more about the functions of this position, please visit my [
 
 # 📈 My Stats
 [![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Asantz96)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # 📫 How to reach me
   <a href="https://www.linkedin.com/in/andressantossanz/">
