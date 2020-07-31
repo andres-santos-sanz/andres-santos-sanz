@@ -3,7 +3,7 @@
 **I'm Andrés Santos and I'm a techie.** 
 
 # 🦾 Working
-- I am an Industralization and Production engineer at [Zennio](https://www.zennio.com/). 
+- I am an **Industralization and Production Engineer** at [Zennio](https://www.zennio.com/). 
 
 If you want to know more about the functions of this position, please visit my [LinkedIn profile](https://www.linkedin.com/in/andressantossanz/).
 
@@ -13,8 +13,11 @@ If you want to know more about the functions of this position, please visit my [
 - I am currently learning **Apache Airflow**, **Keras**, **Scikit learn** and mastering my **Python** 🐍, specially related to *Data Science* and *Data Engineering*.
 
 # 📈 My Stats
-[![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Asantz96)](https://github.com/anuraghazra/github-readme-stats)
+![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Asantz96&show_icons=false&theme=vue&layout=compact&hide_title=true&include_all_commits=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Asantz96&layout=compact&theme=vue" />
+</a>
 
 
 # 📫 How to reach me
@@ -23,5 +26,10 @@ If you want to know more about the functions of this position, please visit my [
   </a>
   
   <a href="mailto:santossanzandres@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Gmail.svg" />
+    <img align="left" alt="Gmail" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Gmail.svg" />  </a>
+
+ <a href="https://stackoverflow.com/users/13103923/asantz96">
+    <img align="left" alt="Stack Overflow" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Stackoverflow.svg" />  </a>
   
+<a href="https://www.kaggle.com/andressantossanz">
+    <img align="left" alt="Kaggle" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Kaggle.svg" />  </a>
