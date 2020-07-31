@@ -22,14 +22,14 @@ If you want to know more about the functions of this position, please visit my [
 
 # 📫 How to reach me
   <a href="https://www.linkedin.com/in/andressantossanz/">
-    <img align="left" alt="Linkedin" width="24px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Linkedin.svg" />
+    <img align="left" alt="Linkedin" width="24px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Linkedin.svg"/>
   </a>
   
   <a href="mailto:santossanzandres@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Gmail.svg" />  </a>
+    <img align="left" alt="Gmail" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Gmail.svg"/>  </a>
 
  <a href="https://stackoverflow.com/users/13103923/asantz96">
-    <img align="left" alt="Stack Overflow" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Stackoverflow.svg" />  </a>
+    <img align="left" alt="Stack Overflow" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Stackoverflow.svg"/> </a>
   
 <a href="https://www.kaggle.com/andressantossanz">
-    <img align="left" alt="Kaggle" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Kaggle.svg" />  </a>
+    <img align="left" alt="Kaggle" width="26px" src="https://github.com/Asantz96/Asantz96/blob/master/resources/Kaggle.svg"/> </a>
