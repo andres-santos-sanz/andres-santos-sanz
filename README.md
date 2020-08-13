@@ -10,7 +10,7 @@ If you want to know more about the functions of this position, please visit my [
 # 📚 Learning
 
 - I am studying a **Msc. in Computer Engineering** at [UOC](https://studies.uoc.edu/en/study-at-the-uoc)
-- I am currently learning **Apache Airflow**, **Keras**, **Scikit learn** and mastering my **Python** 🐍, specially related to *Data Science* and *Data Engineering*.
+- I am **data lover**💖.
 
 # 📈 My Stats
 ![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Asantz96&show_icons=false&theme=vue&layout=compact&hide_title=true&include_all_commits=true)
