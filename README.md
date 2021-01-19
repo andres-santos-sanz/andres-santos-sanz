@@ -3,7 +3,7 @@
 **I'm Andrés Santos and I'm a techie.** 
 
 # 🦾 Working
-- I am an **Industralization and Production Engineer** at [Zennio](https://www.zennio.com/). 
+- I am a **Data Transportation Analyst** at *Amazon Logistics EU*. 
 
 If you want to know more about the functions of this position, please visit my [LinkedIn profile](https://www.linkedin.com/in/data-andres-santos/).
 
