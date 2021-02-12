@@ -1,11 +1,9 @@
-# 👋 Welcome! ![Profile views](https://gpvc.arturio.dev/data-andres-santos)
+# 👋 Welcome! ![Profile views](https://gpvc.arturio.dev/santos-sanz)
 
 **I'm Andrés Santos and I'm a techie.** 
 
 # 🦾 Working
-- I am a **Data Transportation Analyst** at *Amazon Logistics EU*. 
-
-If you want to know more about the functions of this position, please visit my [LinkedIn profile](https://www.linkedin.com/in/data-andres-santos/).
+- I am a **Data Logistics Analyst** at *Amazon Logistics EU*. 
 
 # 📚 Learning
 
@@ -13,17 +11,17 @@ If you want to know more about the functions of this position, please visit my [
 - I am **data lover**💖.
 
 # 📈 My Stats
-![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=data-andres-santos&show_icons=false&theme=vue&layout=compact&hide_title=true&include_all_commits=true)
+![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=santos-sanz&show_icons=false&theme=vue&layout=compact&hide_title=true&include_all_commits=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=data-andres-santos&layout=compact&theme=vue" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=santos-sanz&layout=compact&theme=vue" />
 </a>
 
 
 # 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/data-andres-santos/">
-    <img align="left" alt="Linkedin" width="24px" src="https://github.com/data-andres-santos/data-andres-santos/blob/master/resources/Linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/andsanz/">
+    <img align="left" alt="Linkedin" width="24px" src="https://github.com/santos-sanz/santos-sanz/blob/master/resources/Linkedin.svg"/>
   </a>
   
    <a href="https://twitter.com/asantos_data">
