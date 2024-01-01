@@ -20,11 +20,11 @@
 
 # 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/andsanz/">
+  <a href="https://www.linkedin.com/in/andsanz/](https://www.linkedin.com/in/andressantossanz/">
     <img align="left" alt="Linkedin" width="24px" src="https://github.com/santos-sanz/santos-sanz/blob/master/resources/Linkedin.svg"/>
   </a>
   
-   <a href="https://twitter.com/asantos_data">
+   <a href="https://twitter.com/andres_santz">
     <img align="left" alt="Twitter" width="26px" src="https://github.com/data-andres-santos/data-andres-santos/blob/master/resources/Twitter.svg"/> </a>
   
   <a href="mailto:santossanzandres@gmail.com">
