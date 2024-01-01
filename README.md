@@ -10,13 +10,6 @@
 - I am studying a **Msc. in Computer Engineering** at [UOC](https://studies.uoc.edu/en/study-at-the-uoc)
 - I am **data lover**💖.
 
-# 📈 My Stats
-![Andrés Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=santos-sanz&show_icons=false&theme=vue&layout=compact&hide_title=true&include_all_commits=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=santos-sanz&layout=compact&theme=vue" />
-</a>
-
 
 # 📫 How to reach me
 
