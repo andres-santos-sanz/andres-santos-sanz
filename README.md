@@ -3,7 +3,7 @@
 **I'm Andrés Santos and I'm a techie.** 
 
 # 🦾 Working
-- I am a **Data Logistics Analyst** at *Amazon Logistics EU*. 
+- I am a **Operations Manager** at *Revolut*. 
 
 # 📚 Learning
 
