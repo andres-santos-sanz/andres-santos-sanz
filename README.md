@@ -1,4 +1,4 @@
-# 👋 Welcome! ![Profile views](https://gpvc.arturio.dev/santos-sanz)
+# 👋 Welcome!
 
 **I'm Andrés Santos and I'm a techie.** 
 
