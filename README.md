@@ -3,7 +3,7 @@
 **I'm Andrés Santos and I'm a techie.** 
 
 # 🦾 Working
-- I am a **Operations Manager** at *Revolut*. 
+- I am a **Data Analyst** at *Revolut*. 
 
 # 📚 Learning
 
