@@ -1,6 +1,6 @@
 ### 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/andressantossanz/](https://www.linkedin.com/in/andressantossanz/">
+  <a href="https://www.linkedin.com/in/andressantossanz/">
     <img align="left" alt="Linkedin" width="24px" src="https://github.com/santos-sanz/santos-sanz/blob/master/resources/Linkedin.svg"/>
   </a>
   
